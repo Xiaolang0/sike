@@ -1,0 +1,32 @@
+body {
+  background-image: url(../img/background.jpg);
+  background-1attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+
+h1 {
+	font-weight: 300;
+	font-size: 50px;
+	font-family: 'Open Sans','helvetica',arial,sans-serif;
+}
+
+.header_css {
+	background-image: url(../img/banner.jpg);
+	width: 960px;
+	margin: 0 auto;
+    margin-top: 100px;
+	text-align: center;
+    padding: 1px;
+}
+
+.header_img {
+    border: 3px solid #ffffff;
+    display: block;
+	border-radius: 999px;
+	margin: 0 auto;
+    margin-top: -70px;
+    margin-bottom: 10px;
+    box-shadow: 0 0 2px 1px rgba(0,0,0,0.2);
+
+}
